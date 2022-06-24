@@ -1,1 +1,1 @@
-sheel basics whats up
+Display the contents list of your current directory
